@@ -17,7 +17,7 @@ Founder of **Spectroniq Ltd** (RC-8203175) · Systems Engineering @ UNILAG · Ho
 - 🌍 Based in Lagos, Nigeria
 - 🏗️ Currently building: production AI systems, cloud infrastructure, ethical hacking skills
 - 🤖 Long-term obsession: robotics, autonomous systems, and edge AI
-- 🖥️ Portfolio: [kijuchihe.vercel.app](http://kijuchihe.vercel.app)
+- 🖥️ Portfolio: [kingsleydaprime.vercel.app](http://kingsleydaprime.vercel.app)
 - ✉️ Reach me: [kingsleydaprime@gmail.com](mailto:kingsleydaprime@gmail.com)
 - 🤝 Open to: meaningful collaborations, research, and projects that push boundaries
 
